@@ -16,7 +16,12 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
   - Internship2 - Machine Learning Intern at [OpenClimateFix](https://www.openclimatefix.org/), worked on the Data Pipelines for the [model training](https://github.com/openclimatefix).
 - 🎥 Cinefile, TV shows, crtically acclaimed dramas.
 - 📚 In my free time, either reading a thought provoking book, or jogging out in the nature⛰️.
-  - Current read 📙 -  [Human Kind: A Hopeful History](https://www.goodreads.com/book/show/52879286-humankind)  
+  - Current read 📙 -  [Washington Bullets](https://www.waterstones.com/book/washington-bullets/vijay-prashad/9781583679067)
+  - Books read :books: 
+    - [Human Kind : A Hopeful History](https://www.waterstones.com/book/humankind/rutger-bregman/9781408898956)
+    - [Utopia For Realists](https://www.goodreads.com/book/show/40876575-utopia-for-realists)
+    - [Virtual Society : The Metaverse and the New Frontiers of Human Experience](https://www.goodreads.com/en/book/show/60149538)
+    - [1984 by George Orwell](https://www.goodreads.com/book/show/61439040-1984)
 - 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
 ---
