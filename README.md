@@ -15,6 +15,11 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
   - Internship1 - Earth Observation Intern at [OilX](https://www.oilx.co/), funded by UK Space agency on the project of ["Estimating Greenhouse Gas emissions from Oil Infrastructure"](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
   - Internship2 - Machine Learning Intern at [OpenClimateFix](https://www.openclimatefix.org/), worked on the Data Pipelines for the [model training](https://github.com/openclimatefix).
 - 🎥 Cinefile, TV shows, crtically acclaimed dramas.
+  - Highly recommended (2022-23) :movie_camera:
+    - [Everything Everywhere All At Once](https://www.imdb.com/title/tt6710474/)
+    - [Banshees of Inshireen](https://www.imdb.com/title/tt11813216/)
+    - [The Whale](https://www.imdb.com/title/tt13833688/)
+    - [The Last of US](https://www.imdb.com/title/tt3581920/)
 - 📚 In my free time, either reading a thought provoking book, or jogging out in the nature⛰️.
   - Current read 📙 -  [Washington Bullets](https://www.waterstones.com/book/washington-bullets/vijay-prashad/9781583679067)
   - Books read :books: 
