@@ -7,12 +7,13 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate using Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m pursuing MSc in Satellite data science at The University of Leicester with placement year.
   - Internship1 - Earth Observation Intern at [OilX](https://www.oilx.co/), funded by UK Space agency on the project of ["Estimating Greenhouse Gas emissions from Oil Infrastructure"](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
+    
   - Internship2 - Machine Learning Intern at [OpenClimateFix](https://www.openclimatefix.org/), worked on the Data Pipelines for the [model training](https://github.com/openclimatefix).
 - 🎥 Cinefile, TV shows, crtically acclaimed dramas.
   - Highly recommended (2022-23) :movie_camera:
