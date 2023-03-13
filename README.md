@@ -13,13 +13,13 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
 
 - 🔭 I’m pursuing MSc in Satellite data science at The University of Leicester with placement year.
   - Internship1 - Earth Observation Intern at [OilX](https://www.oilx.co/), funded by UK Space agency on the project of ["Estimating Greenhouse Gas emissions from Oil Infrastructure"](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
-    • Undertake research with literature review and for tangible data and potential methodologies to adapt.
-    • Develop pythonic modules (through version control) from the research of automatic download of satellite data (Sentinel-5P and meteorological wind data (ERA-5) data) and    researching potential weather numerical models.
-    • Test and debug python modules provided by the supervisor.
+    - Undertake research with literature review and for tangible data and potential methodologies to adapt.
+    - Develop pythonic modules (through version control) from the research of automatic download of satellite data (Sentinel-5P and meteorological wind data (ERA-5) data) and    researching potential weather numerical models.
+    - Test and debug python modules provided by the supervisor.
   - Internship2 - Machine Learning Intern at [OpenClimateFix](https://www.openclimatefix.org/), worked on the Data Pipelines for the [model training](https://github.com/openclimatefix).
-    • My duties include pre-process various client data (ex: UKPN) and perform operation in a production environment using CI/CD tools.
-    • Assisting in the streamlining various components of data configurations, to ingest the data for the ML model training.
-    • Working on the computations that are performed in the company’s physical server’s aptly named (Leonardo and Donatello)
+    - My duties include pre-process various client data (ex: UKPN) and perform operation in a production environment using CI/CD tools.
+    - Assisting in the streamlining various components of data configurations, to ingest the data for the ML model training.
+    - Working on the computations that are performed in the company’s physical server’s aptly named (Leonardo and Donatello)
 - 🎥 Cinefile, TV shows, crtically acclaimed dramas.
   - Highly recommended (2022-23) :movie_camera:
     - [Everything Everywhere All At Once](https://www.imdb.com/title/tt6710474/)
