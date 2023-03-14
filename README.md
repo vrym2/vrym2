@@ -33,6 +33,7 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
     - [Utopia For Realists](https://www.goodreads.com/book/show/40876575-utopia-for-realists)
     - [Virtual Society : The Metaverse and the New Frontiers of Human Experience](https://www.goodreads.com/en/book/show/60149538)
     - [1984 by George Orwell](https://www.goodreads.com/book/show/61439040-1984)
+    - [A Promised Land : Barack Obama](https://www.goodreads.com/book/show/55361205-a-promised-land)
 - 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
 ---
