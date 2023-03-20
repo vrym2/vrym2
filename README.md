@@ -34,6 +34,7 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
     - [Virtual Society : The Metaverse and the New Frontiers of Human Experience](https://www.goodreads.com/en/book/show/60149538)
     - [1984 by George Orwell](https://www.goodreads.com/book/show/61439040-1984)
     - [A Promised Land : Barack Obama](https://www.goodreads.com/book/show/55361205-a-promised-land)
+    - [Permanent Record : By Edward Snowden, The Wishtleblower](https://www.waterstones.com/book/permanent-record/edward-snowden/9781529035698)
 - 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
 ---
