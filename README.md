@@ -9,7 +9,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate using Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate about utilising Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m pursuing MSc in Satellite data science at The University of Leicester with placement year.
   - <ins>Internship1</ins> - <ins>Earth Observation Intern at [OilX](https://www.oilx.co/), funded by UK Space agency on the project of ["Estimating Greenhouse Gas emissions from Oil Infrastructure"](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)</ins>
