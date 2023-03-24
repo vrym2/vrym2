@@ -9,6 +9,10 @@
 
 ### :man_technologist: &nbsp;About Me :
 
+<a href="https://github.com/vrym2/vrym2/blob/main/Raj's_CV.pdf" target="_blank">
+  <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" title="CV" alt="CV" width="40" height="40"/>
+</a>
+
 A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate about utilising Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m pursuing MSc in Satellite data science at The University of Leicester with placement year.
@@ -52,7 +56,7 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" title="PowerShell" **alt="PS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
 </p>
 
 ---
