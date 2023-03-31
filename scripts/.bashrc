@@ -45,7 +45,8 @@ git-pull-all $PWD
 # <<<------------------------------------------------->>>
 
 # <<< GitHub Personal access token <<<
-export GITHUB_TOKEN=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
+# Generate a GITHUB Token and put it here
+export GITHUB_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # <<< Earth data ASF login <<<
 export EARTHDATA_USERNAME=vardhan609@gmail.com
 export EARTHDATA_PASSWORD=Nani@351995
