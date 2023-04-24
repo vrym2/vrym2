@@ -20,6 +20,8 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
 
 
 - 🔭 I’m pursuing MSc in Satellite data science at The University of Leicester with placement year.
+- [Projects](https://github.com/vrym2/vrym2/tree/860ef2c0ebca7c84a32ce58135a8575d8cddb392/projects)
+- Expieriences
   - <ins>Internship1</ins> - <ins>Earth Observation Intern at [OilX](https://www.oilx.co/), funded by UK Space agency on the project of ["Estimating Greenhouse Gas emissions from Oil Infrastructure"](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)</ins>
     - Undertake research with literature review and for tangible data and potential methodologies to adapt.
     - Develop pythonic modules (through version control) from the research of automatic download of satellite data (Sentinel-5P and meteorological wind data (ERA-5) data) and    researching potential weather numerical models.
