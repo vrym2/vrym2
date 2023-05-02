@@ -29,12 +29,13 @@ class GoogleBuckets:
             self.log = logging.getLogger(__name__)
         else:
             pass
+
+        # Getting the filename
+        self.filename = os.path.basename(self.local_filepath)
+        self.abs_filepath = os.path.join(os.getcwd(), self.local_filepath)        
     
     def upload(self)-> None:
         """Uploading to the GCP buckets"""
-        # Getting the filename
-        self.filename = os.path.basename(self.local_filepath)
-        self.abs_filepath = os.path.join(os.getcwd(), self.local_filepath)
 
         if os.path.exists(self.abs_filepath):
             # Listing files in the bucket
@@ -49,16 +50,22 @@ class GoogleBuckets:
                     self.log.info(f"file {self.filename} not found in GCP")
                     self.log.info("Commencing upload!")
                     # Uploading file
-                    parallel_threshold = '150M'
-                    sp.check_call(f'gsutil -o GSUtil:parallel_composite_upload_threshold={parallel_threshold} cp {self.abs_filepath} gs://{self.bucket_path}',
-                                  shell = True, stdout = sp.PIPE)
-                    # sp.check_call(f'gsutil cp -r {self.abs_filepath} gs://{self.bucket_path}', 
-                    #             shell = True, stdout = sp.PIPE)
+                    sp.check_call(f'gsutil cp -r {self.abs_filepath} gs://{self.bucket_path}', 
+                                shell = True, stdout = sp.PIPE)
                     self.log.info("Upload finished")
                 else:
                     self.log.debug(f"{self.filename} exists in GCP")
         else:
             self.log.debug(f"file {self.local_filepath} does not exist")
+    
+    def upload_large_files(self)-> None:
+        """Upload very large files"""
+        if os.path.exists(self.abs_filepath):
+            self.log.info("Commencing upload!")
+            sp.check_call(f'gcloud storage cp {self.abs_filepath} gs://{self.bucket_path}')
+            self.log.info("Upload finished")
+        else:
+            self.log.debug(f'File {self.abs_filepath} does not exist')
 
     def remove_uploaded_files(self)-> None:
         """Removing files from local system"""
@@ -70,11 +77,15 @@ class GoogleBuckets:
 
 
 @click.command()
-@click.option('--filename', help = 'Give a file name to upload')
+@click.option('--filepath', help = 'Give a path of file to upload')
 @click.option('--bucket_path', help = 'Path to the bucket in Google storage')
-def cli_upload(filename, bucket_path):
-    upload_data = GoogleBuckets(filename, bucket_path)
-    upload_data.upload()
+def cli_upload(filepath, bucket_path):
+    upload_data = GoogleBuckets(filepath, bucket_path)
+    filesize = os.stat(filepath).st_size
+    if filesize <= 10:
+        upload_data.upload()
+    else:
+        upload_data.upload_large_files()
     upload_data.remove_uploaded_files()
 
 if __name__ == "__main__":
