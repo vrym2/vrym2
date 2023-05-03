@@ -16,5 +16,6 @@ function add_directories_to_pythonpath {
 # call the function with the current directory as argument
 add_directories_to_pythonpath "."
 
-echo "Directories added to PYTHONPATH:"
-echo "$PYTHONPATH"
+current_dir="$(basename $PWD)"
+
+echo "Directory $current_dir added to PYTHONPATH"
