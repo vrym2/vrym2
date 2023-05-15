@@ -8,4 +8,4 @@ function git-pull-all {
     done
 }
 # Usage
-# git-pull-all $PWD
+git-pull-all $PWD
