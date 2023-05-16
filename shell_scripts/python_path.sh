@@ -8,7 +8,6 @@ function add_directories_to_pythonpath {
             if [[ ":$PYTHONPATH:" != *":$file:"* ]]; then
                 export PYTHONPATH="$file:$PYTHONPATH"
             fi
-            add_directories_to_pythonpath "$file"
         fi
     done
 }
