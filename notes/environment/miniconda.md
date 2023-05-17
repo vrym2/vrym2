@@ -8,3 +8,6 @@
 
 * Download the file by running `wget -P ~/apps/tmp https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh`
 * Run the bas file `bash ~/apps/tmp/Mambaforge-Linux-x86_64.sh`
+
+### Export env with only packages
+`conda env export --from-history | cut -f 1 -d '=' | grep -v "prefix" > environment.yml`
