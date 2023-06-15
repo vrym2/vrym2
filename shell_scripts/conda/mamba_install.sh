@@ -10,7 +10,7 @@ else
 fi
 
 # Checking if mamba directory exists
-if [ ! d ~/mambaforge ]: then
+if [ ! d ~/mambaforge ]; then
     wget -P ~/tmp/apps "${MAMBA_URL}"
     bash ~/tmp/apps/Mambaforge-Linux-x86_64.sh
 else
