@@ -8,4 +8,4 @@ mamba create -n $FOLDER_NAME python=3.9
 while IFS= read -r line
 do
     mamba install "${line}"
-done < "$1"
+done < requirements.txt
