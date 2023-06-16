@@ -1,9 +1,6 @@
 #!/bin/bash
 
-# creating the conda env
-FOLDER_NAME="$(basename $PWD)"
-
-mamba create -n $FOLDER_NAME python=3.9
+# Installing packages from requirementstxt file
 
 while IFS= read -r line
 do

@@ -1,11 +1,11 @@
 #!bin/bash
 
-function conda-activate {
-    if [ $(basename $1)=='oiltanks' ]; then
-        echo -e "Activating conda environemnt"
-        mamba activate terradue_snapista
-    else
-        echo "Please check the folder has appropriate conda env"
-        mamba info --envs
-    fi
-}
+# Activating project's conda environment
+FOLDER_NAME=$(basename $PWD)
+if mamba activate $FOLDER_NAME; then
+    mamba activate $FOLDER_NAME
+    echo "${FOLDER_NAME} environment activated"
+else
+    echo "Check if the environment has been created!"
+    mamba info --envs
+fi
