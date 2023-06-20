@@ -1,20 +1,14 @@
 #!/bin/bash
 
-# recursive function to add all directories and sub-directories to PYTHONPATH
-function add_directories_to_pythonpath {
-    for file in "$PWD"/*; do
-        if [[ -d "$file" ]]; then
-            # check if directory is already in PYTHONPATH
-            if [[ ":$PYTHONPATH:" != *":$file:"* ]]; then
-                export PYTHONPATH="$file:$PYTHONPATH"
-            fi
-        fi
-    done
-}
+# Add current folder to python path if it is a .git folder
+# And pull any recent changes
+if git rev-parse --git-dir > /dev/null 2>&1; then
+    # Checking if the directory is laready in PYTHONPATH
+    if [[ ":PYTHONPATH:" != *":$PWD:"* ]]; then
+        echo "Adding $PWD to the PYTHONPATH"
+        export PYTHONPATH="$PWD:$PYTHONPATH"
 
-# call the function with the current directory as argument
-add_directories_to_pythonpath "."
-
-current_dir="$(basename $PWD)"
-
-echo "Directory $current_dir added to PYTHONPATH"
+        echo "Pulling recent changes"
+        git pull
+    fi
+fi
