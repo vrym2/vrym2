@@ -1,4 +1,5 @@
 #!/bin/bash
+
 function git-pull-all {
     for dir in $(find $1 -maxdepth 2 -type d -name .git); do
         cd ${dir%/*}
