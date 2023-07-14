@@ -1,12 +1,7 @@
 #!/bin/bash
 
-function git-pull-all {
-    for dir in $(find $1 -maxdepth 2 -type d -name .git); do
-        cd ${dir%/*}
-        echo "Pulling changes in ${PWD##*/}..."
-        git pull
-        cd - > /dev/null
-    done
-}
-# Usage
-git-pull-all $PWD
+if git rev-parse --git-dir > /dev/null 2>&1; then
+    # Pulling if it is a Git folder
+    echo "Pulling recent changes"
+    git pull
+fi
