@@ -7,9 +7,6 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-<a href="https://github.com/vrym2/vrym2/blob/main/Raj's_CV.pdf" target="_blank">
-  <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" title="CV" alt="CV" width="40" height="40"/>
-</a>
 
 * I'm a satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate about utilising Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
