@@ -5,9 +5,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
-* I'm a satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate about utilising Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
+* I'm a satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python code developer🐍, passionate about utilising Satellite and Remote Sensing data🛰️📡 for Environmental and climate sciences🏞️🌊🌦️. 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
 ---
 
@@ -36,4 +36,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrym2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
-- [Estimating GHG emissions using Sentinel-5P satellite data- UK space agency SPIN](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
+- [Estimating GHG emissions using Sentinel-5P satellite data- UK space agency SPIN programme](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
