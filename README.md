@@ -3,8 +3,6 @@
 <a href="https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width= "480"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me :
@@ -13,38 +11,7 @@
   <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" title="CV" alt="CV" width="40" height="40"/>
 </a>
 
-A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate about utilising Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-- 🔭 I’m pursuing MSc in Satellite data science at The University of Leicester with placement year.
-- For my projects - click this icon <a href="https://github.com/vrym2/vrym2/tree/860ef2c0ebca7c84a32ce58135a8575d8cddb392/projects" target="_blank">
-  <img src="https://icon-library.com/images/project-icon-png/project-icon-png-15.jpg" title="Projects" alt="Projects" width="40" height="40"/>
-</a>
-
-  - <ins>Internship1</ins> - <ins>Earth Observation Intern at [OilX](https://www.oilx.co/), funded by UK Space agency on the project of ["Estimating Greenhouse Gas emissions from Oil Infrastructure"](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)</ins>
-    - Undertake research with literature review and for tangible data and potential methodologies to adapt.
-    - Develop pythonic modules (through version control) from the research of automatic download of satellite data (Sentinel-5P and meteorological wind data (ERA-5) data) and    researching potential weather numerical models.
-    - Test and debug python modules provided by the supervisor.
-  - <ins>Internship2</ins> - <ins>Machine Learning Intern at [OpenClimateFix](https://www.openclimatefix.org/), worked on the Data Pipelines for the [model training](https://github.com/openclimatefix).</ins>
-    - My duties include pre-process various client data (ex: UKPN) and perform operation in a production environment using CI/CD tools.
-    - Assisting in the streamlining various components of data configurations, to ingest the data for the ML model training.
-    - Working on the computations that are performed in the company’s physical server’s aptly named (Leonardo and Donatello)
-- 🎥 Cinefile, TV shows, crtically acclaimed dramas.
-  - Highly recommended (2022-23) :movie_camera:
-    - [Everything Everywhere All At Once](https://www.imdb.com/title/tt6710474/)
-    - [Banshees of Inshireen](https://www.imdb.com/title/tt11813216/)
-    - [The Whale](https://www.imdb.com/title/tt13833688/)
-    - [The Last of US](https://www.imdb.com/title/tt3581920/)
-- 📚 In my free time, either reading a thought provoking book, or jogging out in the nature⛰️.
-  - Current read 📙 -  [Washington Bullets](https://www.waterstones.com/book/washington-bullets/vijay-prashad/9781583679067)
-  - Books read :books: 
-    - [Human Kind : A Hopeful History](https://www.waterstones.com/book/humankind/rutger-bregman/9781408898956)
-    - [Utopia For Realists](https://www.goodreads.com/book/show/40876575-utopia-for-realists)
-    - [Virtual Society : The Metaverse and the New Frontiers of Human Experience](https://www.goodreads.com/en/book/show/60149538)
-    - [1984 by George Orwell](https://www.goodreads.com/book/show/61439040-1984)
-    - [A Promised Land : Barack Obama](https://www.goodreads.com/book/show/55361205-a-promised-land)
-    - [Permanent Record : By Edward Snowden, The Wishtleblower](https://www.waterstones.com/book/permanent-record/edward-snowden/9781529035698)
-- 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
+* I'm a satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python🐍 code developer, passionate about utilising Satellite🛰️ and Remote Sensing 📡data for Environmental🏞️ and climate🌊🌦️ sciences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
 ---
 
@@ -66,3 +33,11 @@ A Satellite data science graduate🖥️👨‍💻🛰️, Geospatial data tech
 
 ---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrym2&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrym2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :writing_hand: Blog Posts :
+- [Estimating GHG emissions using Sentinel-5P satellite data- UK space agency SPIN](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
