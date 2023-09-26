@@ -31,7 +31,7 @@
 
 ### :fire: My Stats :
 
-<span align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=vrym2&theme=highcontrast&sideNums=EB5454&background=45%2CFD957A%2C16BDEB)](https://git.io/streak-stats)</span>
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrym2&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrym2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
