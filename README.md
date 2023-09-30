@@ -35,8 +35,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrym2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👷: Academic Projects:
-- Find my academic projects here 👉:: [link](https://github.com/vrym2/vrym2/tree/main/projects)
+### 👷 Academic Projects:
+- Find my academic projects here 👉: [link](https://github.com/vrym2/vrym2/tree/main/projects)
 
 ### :writing_hand: Blog Posts :
 - [Estimating GHG emissions using Sentinel-5P satellite data- UK space agency SPIN programme](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
