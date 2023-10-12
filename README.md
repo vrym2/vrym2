@@ -31,8 +31,6 @@
 
 ### :fire: My Stats :
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrym2&show_icons=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrym2&layout=compact&theme=vision-friendly-dark&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👷 Academic Projects:
