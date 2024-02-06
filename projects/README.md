@@ -35,6 +35,10 @@
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrym2&show_icons=true&theme=radical&hide=stars)
 
+### 🖥 Web Applications :
+ - Kinetic Hydro Assessment Analysis 👉: [WebAppDemo](https://vrym2.github.io/videos/HydroAssessment_WebAppDemo.mp4)
+ - Storage Oil Detection 👉: [WebAppDemo](https://vrym2.github.io/videos/OilStorageTankDetection_WebAppDemo.mp4)
+
 ### 👷 Academic Projects:
 - Find my academic projects here 👉: [link](https://github.com/vrym2/vrym2/tree/main/projects)
 
