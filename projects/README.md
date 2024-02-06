@@ -7,7 +7,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-:github: [GitHub Portfolio](https://vrym2.github.io/)
+:octocat: [GitHub Portfolio](https://vrym2.github.io/)
 
 * I'm a satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python code developer🐍, passionate about utilising Satellite and Remote Sensing data🛰️📡 for Environmental and climate sciences🏞️🌊🌦️. 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
