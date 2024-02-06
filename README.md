@@ -7,6 +7,8 @@
 
 ### :man_technologist: &nbsp;About Me :
 
+:octocat: [GitHub Portfolio](https://vrym2.github.io/)
+
 * I'm a satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python code developer🐍, passionate about utilising Satellite and Remote Sensing data🛰️📡 for Environmental and climate sciences🏞️🌊🌦️. 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
 ---
@@ -34,6 +36,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrym2&layout=compact&theme=vision-friendly-dark&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrym2&show_icons=true&theme=radical&hide=stars)
+
+### 🖥 Web Applications :
+ - Kinetic Hydro Assessment Analysis 👉: [WebAppDemo](https://vrym2.github.io/videos/HydroAssessment_WebAppDemo.mp4)
+ - Storage Oil Detection 👉: [WebAppDemo](https://vrym2.github.io/videos/OilStorageTankDetection_WebAppDemo.mp4)
 
 ### 👷 Academic Projects:
 - Find my academic projects here 👉: [link](https://github.com/vrym2/vrym2/tree/main/projects)
