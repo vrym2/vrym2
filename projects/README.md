@@ -1,24 +1,44 @@
-# My Projects
-Vardhan Raj Modi<br />
-[University of Leicester](https://le.ac.uk/), Leicester, United Kingdom                                       
-Master of Science: Satellite Data Science
 
-<ins>Study Modules</ins>
-* Term1 - Fundamentals of GIS, R programming for data science, Earth Observation of atmosphere, Remote Sensing.
-* Term2 - Satellite Data Analysis in Python, Geospatial Data Analysis, Geospatial Database Information Retrieval, Big data, and predictive analysis.
+<p align="center">
+<a href="https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
-<ins>Project 1 – Urban Air Monitoring System and Health (UAMS-H) (R-Studio)</ins>
-* Lead the development of an air quality monitoring prototype web application as the Project Manager, effectively assimilating Satellite data acquisition and visualisation through 'R' programming. Link to the [prototype](https://aem33.shinyapps.io/EO_Project17/) and the [technical report](https://drive.google.com/file/d/11kAAlp9nlXSsvBUjgt6Pm4KQ7R4fJEKR/view?usp=sharing).
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-![image](https://user-images.githubusercontent.com/93340339/227717562-d7ed1e04-0e1d-41c7-b639-6c0e9ad966d0.png)
+### :man_technologist: &nbsp;About Me :
 
-<ins>Project 2 – Satellite Data Analysis on California Dixie Fire (2021) (Google- Colab)</ins>
-* Automatic data acquisition (with Google Earth Engine and Copernicus Data Hub), pre-processing, analysis, and visualisation of pre- and post-Dixie fire have been conducted in Colab (python programming). For a brief look into the project, please open this [link](https://drive.google.com/drive/folders/1QQfcRFhfrO57x5y4Fr1R3VBz8RsZkplg?usp=sharing) to the report and for [code](https://colab.research.google.com/drive/1pSHSG5InkEfz5Bm_xjaWDRPEgc1MSTjg?usp=sharing).
+* I'm a satellite data science graduate🖥️👨‍💻🛰️, Geospatial data technician🗺️🧭, python code developer🐍, passionate about utilising Satellite and Remote Sensing data🛰️📡 for Environmental and climate sciences🏞️🌊🌦️. 📫 To reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-raj-modi-0b10958a/)
 
-![image](https://user-images.githubusercontent.com/93340339/227717654-f7b7f37e-6ccb-4c8b-8773-737c92500b99.png)
+---
 
-<ins>Project 3 – U.S. Diabetic patient data analysis and readmit prediction (Google Colab)</ins>
-* Worked on U.S patient data to predict whether a patient is going to be readmitted, utilizing K-Means clustering, Random Forest, Logistic Regression, and other ML algorithms. Link to the [Colab notebook](https://drive.google.com/drive/folders/1bpd_EshBB_HbL3snHTl1qYDtX3Fx6aHP?usp=sharing) and the [report](https://drive.google.com/drive/folders/1bpd_EshBB_HbL3snHTl1qYDtX3Fx6aHP?usp=sharing).
+### 🛠 &nbsp;Languages and Tools :
 
-<ins>Project 4 – Spatial analysis of pipeline accidents in the state of PA, US (R-Studio)</ins>
-* Gaussian and Kernel Densities of pipeline accidents have been analysed in this project to determine the risk of contamination utilising spatial variability. This project has been performed utilizing R programming languages and the code can be found in this [link](https://drive.google.com/drive/folders/1Ny6OlehCcSj06Yj1zOclL_jdbI5oVfaP?usp=sharing).
+<p>
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://www.r-project.org/logo/Rlogo.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+<img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" title="Google Cloud Platform" alt="GCP" width="40" height="40"/>&nbsp;
+<img src="https://avatars2.githubusercontent.com/u/1058467?s=400&v=4" title="OSGeo" alt="OSGeo" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch" alt="PyTorch " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" title="PowerShell" **alt="PS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrym2&layout=compact&theme=vision-friendly-dark&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
+
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrym2&show_icons=true&theme=radical&hide=stars)
+
+### 👷 Academic Projects:
+- Find my academic projects here 👉: [link](https://github.com/vrym2/vrym2/tree/main/projects)
+
+### :writing_hand: Blog Posts :
+- [Estimating GHG emissions using Sentinel-5P satellite data- UK space agency SPIN programme](https://spacehubyorkshire.org/spin-showcase-2022-intern-blog-posts/)
+
+
